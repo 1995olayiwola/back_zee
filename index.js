@@ -10,7 +10,7 @@ const dbConn = 'mongodb+srv://techdell727:zeegold@cluster0.iowofnp.mongodb.net/?
 const APP_ID = 'properties_app';
 const MASTER_KEY = 'properties_app';
 const REST_API_KEY ='properties_app';
-const SERVER_URL = 'http://localhost:1337/parse'
+const SERVER_URL = 'https://zeegold.onrender.com/parse'
 
 //https://dreaminvestment-b52297c0d397.herokuapp.com
 // 'https://qrinvest.onrender.com/parse'
