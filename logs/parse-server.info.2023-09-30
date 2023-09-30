@@ -1,0 +1,12 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-09-30T17:31:59.018Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-09-30T17:31:59.040Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2023-09-30T17:31:59.052Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-09-30T17:32:00.686Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-09-30T21:31:01.077Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-09-30T21:31:02.074Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-09-30T21:31:01.086Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2023-09-30T21:31:01.090Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-09-30T21:34:25.611Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-09-30T21:34:26.699Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-09-30T21:34:25.632Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2023-09-30T21:34:25.638Z"}

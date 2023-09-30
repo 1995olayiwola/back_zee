@@ -6,7 +6,7 @@ var app = express();
 require('dotenv').config();
 
 
-const dbConn = 'mongodb+srv://techdell727:zeegold@cluster0.iowofnp.mongodb.net/?retryWrites=true&w=majority';
+const dbConn = 'mongodb+srv://dreamvest16:dream_12345@cluster0.2cug7xx.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp';
 const APP_ID = 'properties_app';
 const MASTER_KEY = 'properties_app';
 const REST_API_KEY ='properties_app';
